@@ -5,7 +5,11 @@ code of Refined Enhancement and Integration Network for Real-Time Semantic Segme
 Effective processing of multi-scale details, spatial information, and ensuring real-time performance are crucial challenges in semantic segmentation. To address these issues, we introduce the Refined Enhancement and Integration Network (REI-Net), which achieves high accuracy and efficiency in real-time semantic segmentation.
 
 # 2. File
-To be uploaded
+- rei-net.py: REI-Net model master code
+- resnet.py: Backbone network ResNet18
+- stdcnet.py: Backbone network STDC
+- siem.py: Codes for SIEM
+- bcsdem.py: Codes for BCSDEM
 
 # 3. Datasets
 
